@@ -8,7 +8,7 @@
   "license": "GNU GPLv3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CorentinTh/it-tools"
+    "url": "git@github.com:jojo-jie/it-tools.git"
   },
   "keywords": [
     "productivity",
